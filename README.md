@@ -1,4 +1,4 @@
-# Newsletter  @ https://whispering-hamlet-93814.herokuapp.com/
+# Newsletter  @ https://newsletter-subscription-api.onrender.com/
 An newsletter signup app made using node - express, request, body-parser, API requests and callbacks.
 
 TO FIND THE SUBSCRIBED AUDIENCE LIST GO HERE, THIS IS THE API PROVIDER FOR NEWLETTER SUBS.
